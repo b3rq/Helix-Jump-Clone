@@ -1253,7 +1253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a2316bbcde31f542955c061d7e75ed8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ball: {fileID: 0}
+  _ball: {fileID: 640279233}
   _trailMaterial: {fileID: 2100000, guid: 8fa43e50a56b9eb449490da69ceafe49, type: 2}
   _myMaterial: {fileID: 2100000, guid: 05eb98eb709183f4e9ddf6d688bc266b, type: 2}
   _lerpMaterial: {fileID: 2100000, guid: a3e1344c02476e648b7e77a0c26d7e98, type: 2}
